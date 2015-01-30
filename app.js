@@ -11,14 +11,12 @@
 			price: 2.95,
 			description: 'Ten sides of gem.',
 			canPurchase: true,
-			soldOut: true
 		},
 		{
 			name: 'Pentagonal Gem',
 			price: 5.95,
 			description: 'Five sides of gem.',
 			canPurchase: false,
-			soldOut: false
 		},
 	];
 })();
