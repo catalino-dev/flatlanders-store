@@ -8,6 +8,8 @@
 	var gem = {
 		name: 'Dodecahedron',
 		price: 2.95,
-		description: '. . .',
+		description: 'Ten sides of gem.',
+		canPurchase: true,
+		soldOut: true
 	}
 })();
