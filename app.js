@@ -17,6 +17,6 @@
 			price: 5.95,
 			description: 'Five sides of gem.',
 			canPurchase: false,
-		},
+	  },
 	];
 })();
