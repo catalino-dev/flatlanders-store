@@ -18,5 +18,11 @@
 			description: 'Five sides of gem.',
 			canPurchase: false,
 		},
+		{
+			name: 'Hexagonal Gem',
+			price: 6.95,
+			description: 'Six sides of gem.',
+			canPurchase: true,
+		},
 	];
 })();
