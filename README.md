@@ -6,3 +6,4 @@ Shaping up with Angular.js exercise from CodeSchool
 - [x] Push my commits to GitHub
 - [ ] Open a pull request
 - [ ] \(Optional) Open a followup issue
+- [ ] Additional
