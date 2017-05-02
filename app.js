@@ -25,10 +25,10 @@
 			canPurchase: true,
 		},
 		{
-            name: 'Heptagonal Gem',
-            price: 7.95,
-            description: 'Seven sides of gem.',
-            canPurchase: false,
-        },
+            		name: 'Heptagonal Gem',
+            		price: 7.95,
+            		description: 'Seven sides of gem.',
+            		canPurchase: false,
+        	},
 	];
 })();
