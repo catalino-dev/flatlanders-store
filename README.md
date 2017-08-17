@@ -7,3 +7,4 @@ Shaping up with Angular.js exercise from CodeSchool
 - [ ] Open a pull request
 - [ ] \(Optional) Open a followup issue
 - [ ] Additional
+- [ ] Additional (Hotfix)
