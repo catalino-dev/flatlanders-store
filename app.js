@@ -11,12 +11,14 @@
 			price: 2,
 			description: 'Ten sides of gem.',
 			canPurchase: true,
+			soldOut: true
 		},
 		{
 			name: 'Pentagonal Gem',
 			price: 5.95,
 			description: 'Five sides of gem.',
 			canPurchase: false,
+			soldOut: false
 		},
 		{
 			name: 'Hexagonal Gem',
